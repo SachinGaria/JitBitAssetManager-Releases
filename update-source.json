@@ -1,0 +1,6 @@
+{
+  "provider": "github",
+  "repository": "SachinGaria/JitBitAssetManager-Releases",
+  "release_asset": "JitBitAssetManager-win-x64.zip",
+  "checksums_asset": "checksums.txt"
+}
