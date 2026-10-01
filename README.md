@@ -189,8 +189,8 @@ Do not publish API tokens, browser authentication data, employee personal inform
 
 ## Current release
 
-**v1.7.1**
+**v1.7.2**
 
-The v1.7.1 release contains the current updater reliability fixes, bulk update improvements, responsive Assigned To editing, progressive Bulk Preview behavior, safer Live Logs refresh, and the organized Windows package layout.
+v1.7.2 is the current production Windows x64 release. It fixes the Live Logs startup crash, improves Live Logs shared-team visibility and per-asset history, modernizes the Bulk Operations layout, keeps the Assigned To editor within the visible window, and retains the checksum-verified in-app updater.
 
 See the Releases page for the downloadable package and detailed release notes.
