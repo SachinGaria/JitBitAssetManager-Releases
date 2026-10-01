@@ -189,8 +189,8 @@ Do not publish API tokens, browser authentication data, employee personal inform
 
 ## Current release
 
-**v1.7.2**
+**v1.7.3**
 
-v1.7.2 is the current production Windows x64 release. It fixes the Live Logs startup crash, improves Live Logs shared-team visibility and per-asset history, modernizes the Bulk Operations layout, keeps the Assigned To editor within the visible window, and retains the checksum-verified in-app updater.
+v1.7.3 is the current production Windows x64 release. It adds reliable editable date fields for administrators when reference protection is disabled, adds Delivery Date and Warranty Expiration Date to Bulk Update, and retains the latest Live Logs, shared audit, Bulk Operations, packaging, and updater improvements.
 
 See the Releases page for the downloadable package and detailed release notes.
