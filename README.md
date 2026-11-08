@@ -8,6 +8,8 @@ This repository contains **production distribution packages, checksums, and rele
 
 ## What the application does
 
+<img width="1618" height="972" alt="Anonymized Purple Ticket Manager Dashboard" src="https://github.com/user-attachments/assets/fedc06b2-6ec9-443e-9abb-8c5be418d35d" />
+
 ### Asset search and viewing
 - Search assets using Asset # and other supported identifiers.
 - Search by Serial Number and Employee Alias when required.
